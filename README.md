@@ -11,4 +11,5 @@
 - Fox & Hound
 - Milk & Honey
 - Pub & Kitchen
+- Vernick Food & Drink
 - Wedge & Fig

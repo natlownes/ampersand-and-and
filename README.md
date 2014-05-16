@@ -10,5 +10,6 @@
 - Fire & Ice
 - Fox & Hound
 - Milk & Honey
+- Milk & Sugar
 - Pub & Kitchen
 - Wedge & Fig

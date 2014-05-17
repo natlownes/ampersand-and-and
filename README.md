@@ -11,5 +11,6 @@
 - Fox & Hound
 - Kite & Key
 - Milk & Honey
+- Milk & Sugar
 - Pub & Kitchen
 - Wedge & Fig

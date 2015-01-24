@@ -5,6 +5,7 @@
 - Boot & Saddle
 - Bourbon & Branch
 - Butcher & Singer
+- Crow & the Pitcher
 - Cook & Shaker
 - Farm & Fisherman
 - Fire & Ice

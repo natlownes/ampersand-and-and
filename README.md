@@ -4,6 +4,7 @@
 - Bank & Bourbon
 - Boot & Saddle
 - Bourbon & Branch
+- Brick & Mortar
 - Butcher & Singer
 - Crow & the Pitcher
 - Cook & Shaker

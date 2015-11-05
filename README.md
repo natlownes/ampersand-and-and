@@ -15,4 +15,5 @@
 - Milk & Honey
 - Milk & Sugar
 - Pub & Kitchen
+- Tap & Kitchen
 - Wedge & Fig

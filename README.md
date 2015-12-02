@@ -5,6 +5,7 @@
 - Boot & Saddle
 - Bourbon & Branch
 - Brick & Mortar
+- Bud & Marilyn's
 - Butcher & Singer
 - Crow & the Pitcher
 - Cook & Shaker

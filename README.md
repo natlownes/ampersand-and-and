@@ -1,5 +1,6 @@
 ## Ampersand & And:
-### A very important list of Philadelphia establishments that are named: $SOMETHING & $SOMETHINGELSE
+
+A collection of Philadephia establishments with names in the form "$(A thing) & $(Another thing)." Candidates do not include peoples' names, such as "Smith & Wesson," or descriptors such as "Tommy's Bar & Grill."
 
 - Bank & Bourbon
 - Boot & Saddle
@@ -10,7 +11,6 @@
 - Cook & Shaker
 - Farm & Fisherman
 - Fire & Ice
-- Forge & Finish
 - Fox & Hound
 - Hoof & Antler
 - Kite & Key

@@ -10,6 +10,7 @@
 - Cook & Shaker
 - Farm & Fisherman
 - Fire & Ice
+- Forge & Finish
 - Fox & Hound
 - Hoof & Antler
 - Kite & Key

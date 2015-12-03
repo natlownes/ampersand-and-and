@@ -14,6 +14,7 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Forge & Finish
 - Fox & Hound
 - Hoof & Antler
+- Kit & Ace
 - Kite & Key
 - Milk & Honey
 - Milk & Sugar

@@ -11,6 +11,7 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Cook & Shaker
 - Farm & Fisherman
 - Fire & Ice
+- Forge & Finish
 - Fox & Hound
 - Hoof & Antler
 - Kite & Key

@@ -13,6 +13,7 @@
 - Forge & Finish
 - Fox & Hound
 - Hoof & Antler
+- Kit & Ace
 - Kite & Key
 - Milk & Honey
 - Milk & Sugar

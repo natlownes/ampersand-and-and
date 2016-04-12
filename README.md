@@ -7,6 +7,7 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Bourbon & Branch
 - Brick & Mortar
 - Butcher & Singer
+- Crime & Punishment
 - Crow & the Pitcher
 - Cook & Shaker
 - Farm & Fisherman

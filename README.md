@@ -21,5 +21,6 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Milk & Honey
 - Milk & Sugar
 - Pub & Kitchen
+- Stove & Tap
 - Tap & Kitchen
 - Wedge & Fig

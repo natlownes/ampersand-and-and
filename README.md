@@ -15,6 +15,7 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Forge & Finish
 - Fox & Hound
 - Friend & Nemesis
+- Hand & Stone
 - Harp & Crown
 - Hoof & Antler
 - Kit & Ace

@@ -18,8 +18,8 @@ A collection of Philadephia establishments with names in the form "$(A thing) & 
 - Hand & Stone
 - Harp & Crown
 - Hoof & Antler
-- Kit & Ace
 - Kite & Key
+- Lapstone & Hammer
 - Milk & Honey
 - Milk & Sugar
 - Pub & Kitchen

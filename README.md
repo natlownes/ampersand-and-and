@@ -17,6 +17,7 @@ Wesson", or descriptors such as "Tommy's Bar & Grill".
 - Forge & Finish
 - Fox & Hound
 - Friend & Nemesis
+- Gin & Pop
 - Hand & Stone
 - Harp & Crown
 - Hoof & Antler
